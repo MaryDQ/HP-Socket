@@ -4,6 +4,11 @@
 
 **HP-Socket的UDP模块完全支持Android平台使用。**
 
+## 快速导航
+
+- **[Android CMake集成详细指南](Android-CMake-Integration-Guide.md)** - 推荐使用CMake方式集成，包含完整的单Module集成方案
+- **[Android CMake Integration Guide (English)](Android-CMake-Integration-Guide-EN.md)**
+
 ## 支持的UDP组件
 
 HP-Socket为Android平台提供以下UDP组件：

@@ -4,6 +4,11 @@
 
 **HP-Socket's UDP module fully supports the Android platform.**
 
+## Quick Navigation
+
+- **[Android CMake Integration Guide (English)](Android-CMake-Integration-Guide-EN.md)** - Recommended CMake integration with complete single-module solution
+- **[Android CMake集成详细指南（中文）](Android-CMake-Integration-Guide.md)**
+
 ## Supported UDP Components
 
 HP-Socket provides the following UDP components for Android platform:
