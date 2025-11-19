@@ -153,6 +153,13 @@ int main(int argc, char* const argv[])
 - *[HP-Socket for MacOS](https://gitee.com/xin_chong/HP-Socket-for-macOS)*
 - *[HP-Socket for .Net](https://gitee.com/int2e/HPSocket.Net)*
 
+## Android Platform Support
+
+- *[Android UDP Module Guide (English)](Android-UDP-Support-EN.md)*
+- *[Android UDP模块使用指南（中文）](Android-UDP-Support.md)*
+
+HP-Socket fully supports the Android platform, including all core components such as UDP, TCP, HTTP, etc. For detailed Android compilation and usage instructions, please refer to the documentation above.
+
 ## Technical Exchange Groups
 
 - *[QQ Group - 1](https://jq.qq.com/?_wv=1027&k=3UAbrhTG)*

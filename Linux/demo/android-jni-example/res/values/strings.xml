@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HP-Socket Example</string>
+    
+    <string name="usage_instructions">
+        使用说明：\n
+        1. 启动Server：输入端口号，点击"Start Server"\n
+        2. 连接Server：输入服务器地址和端口，点击"Connect"\n
+        3. 发送消息：输入消息内容，点击"Send Message"\n
+        4. Server会自动回显收到的消息\n\n
+        
+        测试建议：\n
+        - 可以在同一设备上测试（使用127.0.0.1）\n
+        - 也可以在两台设备间测试（确保在同一网络）\n
+        - 查看Logcat获取详细日志（标签：HPSocket-JNI）
+    </string>
+</resources>

@@ -153,6 +153,13 @@ int main(int argc, char* const argv[])
 - *[HP-Socket for MacOS](https://gitee.com/xin_chong/HP-Socket-for-macOS)*
 - *[HP-Socket for .Net](https://gitee.com/int2e/HPSocket.Net)*
 
+## Android平台支持
+
+- *[Android UDP模块使用指南](Android-UDP-Support.md)*
+- *[Android UDP Module Guide (English)](Android-UDP-Support-EN.md)*
+
+HP-Socket完全支持Android平台，包括UDP、TCP、HTTP等所有核心组件。详细的Android编译和使用说明请参考上述文档。
+
 ## 技术交流
 
 - *[怪兽乐园①群](https://jq.qq.com/?_wv=1027&k=3UAbrhTG)*
